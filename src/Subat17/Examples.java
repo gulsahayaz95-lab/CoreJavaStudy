@@ -1,11 +1,9 @@
-package Subat16;
+package Subat17;
 
 import java.util.Scanner;
 
-public class Examples2 {
+public class Examples {
     public static void main(String[] args) {
-
-
         System.out.println("---------Soru1--------");
         // Kullanıcıdan isim al.İlk harfi büyük, diğerleri küçük yazsın.
 
@@ -79,8 +77,6 @@ public class Examples2 {
         }
 
 
-        System.out.println("---------Soru4--------");
-        // Kullanıcıdan isim ve yaş al. Yaş >=18
 
 
 
